@@ -1,6 +1,6 @@
 # Handwriting MNIST dataset
 
-This repository contains code for training a model to generate this dataset. If you are interested in how this was created please look at [my page](grzego.github.io/...) where I described the process.
+This repository contains code for training a model to generate this dataset. If you are interested in how this was created please look at [my post](https://grzego.github.io/2017/12/08/mnist-to-handwriting.html) where I described the process.
 
 ![](https://github.com/Grzego/mnist-handwriting-dataset/blob/master/images/handwriting-animation.gif)
 
