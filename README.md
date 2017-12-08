@@ -36,7 +36,7 @@ You can run `tensorboard` for some visualizations.
 ##### 6. After training if over you need to convert thinned dataset to handwritten dataset:
 ```
 python convert.py --model=path_to_model --save=mnist-handwritten
-						  ^ex. summary/experiment-0/models/handwriting-model-0
+                          ^ex. summary/experiment-0/models/handwriting-model-0
 ```
 
 #### 7. Preview dataset:
